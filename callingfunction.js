@@ -1,0 +1,1 @@
+falling_egg (this.document.images[0],0);
